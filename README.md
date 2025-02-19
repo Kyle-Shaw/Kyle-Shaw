@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Kyle-Shaw/Kyle-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools 
 
-Here are some ideas to get you started:
+- **Languages**: C#, C++, JavaScript, SQL
+- **Frameworks**: ASP.NET MVC
+- **Tools**: Git, GitHub, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on ...
+ - No current project
+
+## 🌱 I’m currently learning ...
+ - Machine learning, Networking and Embeded Systems
+
+## Notable Projects
+
+- **[Project Name](https://github.com/username/project-repo):** Brief project description highlighting its purpose and significance. Mention your role and the technologies utilized.
+
+- **[TutorLink]([https://github.com/username/project-repo](https://github.com/suhalip/SNHU-TutorLink)):** A tutor appointment android app for students at SNHU. Using a local test dataset of tutors we generate tutor profiles and apointments on a calendar for students to book apointments with or join drop in times. I worked on managing the (no sql)firebase realtime database and firebase authentication that the app used. Integrating requst from the database into the dart frontend using Async components.
+
+- **[Project Name](https://github.com/username/project-repo):** Brief project description highlighting its purpose and significance. Mention your role and the technologies utilized.
+
+## 📫 Let's Connect
+
+- **Email**: shawkyle06@yahoo.com
+- **LinkedIn**: https://www.linkedin.com/in/kyle-m-shaw/
+
