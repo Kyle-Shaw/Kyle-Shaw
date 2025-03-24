@@ -14,7 +14,7 @@
 
 ## Notable Projects
 
-- **[Roamr](https://github.com/username/project-repo):** Roamr is a cross-platform social media app for Android and iOS, allowing users to share and explore outdoor adventures such as hiking, rock climbing, fishing, and kayaking.
+- **[Roamr]([https://github.com/username/project-repo](https://github.com/CameronDeMarco/CS-304/tree/dev)):** Roamr is a cross-platform social media app for Android and iOS, allowing users to share and explore outdoor adventures such as hiking, rock climbing, fishing, and kayaking.
 
 - **[TutorLink](https://github.com/suhalip/SNHU-TutorLink):** A tutor appointment android app for students at SNHU. Using a local test dataset of tutors we generate tutor profiles and apointments on a calendar for students to book apointments with or join drop in times. I worked on managing the (no sql)firebase realtime database and firebase authentication that the app used. Integrating requst from the database into the dart frontend using Async components.
 
