@@ -2,7 +2,7 @@
 
 ## 🔧 Technologies & Tools 
 
-- **Languages**: C#, C++, JavaScript, SQL
+- **Languages**: C#, C++, Java, JavaScript, SQL
 - **Frameworks**: ASP.NET MVC
 - **Tools**: Git, GitHub, Android Studio
 
